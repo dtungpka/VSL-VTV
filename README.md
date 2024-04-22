@@ -1,2 +1,2 @@
 # VSL-VTV
-Repository for VSL-VTV paper
+Repository for VSL-VTV paper (TBA)
